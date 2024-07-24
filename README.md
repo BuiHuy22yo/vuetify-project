@@ -1,4 +1,4 @@
-#Build command:
+# Build command:
 - npm install
 - npm run build
 
